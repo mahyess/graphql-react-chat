@@ -7,5 +7,5 @@
 ## how to
 
 - run server `cd server && yarn && yarn start`
-- run chat client `cd chat && yarn && yarn start`
+- run chat client `cd client && yarn && yarn start`
 - run homepage implementing chat module `cd homepage && yarn && yarn start`
